@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinmay-Dev27
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning from ChatGPT
-- 💞️ I’m looking to collaborate on any projeccts
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me https://whatsapp.com/channel/0029Va6tUWRGehELm28GCB1Z
 
 <!---
